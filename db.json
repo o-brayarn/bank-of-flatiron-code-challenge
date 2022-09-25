@@ -83,6 +83,13 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "date": "2022-09-22",
+      "description": "Paycheck to Jackson",
+      "category": "Income",
+      "amount": "300000",
+      "id": 13
     }
   ]
 }
